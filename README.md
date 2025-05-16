@@ -1,4 +1,4 @@
-# EX-09 Name: DINESH KUMAR A (212223060057)
+# EX-04 Name: DINESH KUMAR A (212223060057)
 # Linear-Block-Code
 
 # AIM
